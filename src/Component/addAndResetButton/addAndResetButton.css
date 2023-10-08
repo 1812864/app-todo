@@ -1,0 +1,14 @@
+.wrap-button {
+    margin-top: 20px;
+}
+.container-modal {
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+.container-modal .header-modal {
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+.container-modal .form-modal {
+    padding: 15px;
+}
